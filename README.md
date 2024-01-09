@@ -4,9 +4,9 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning Linux and Git
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with AWS
+- 🌱 I’m currently learning Terraform
+- 👯 I’m looking to collaborate on Terraform and AWS
+- 🤔 I’m looking for help with Devops
 - 💬 Ask me about AWS Cloud Practitoner
 - 📫 How to reach me: ...
 - 😄 Pronouns: he/him
