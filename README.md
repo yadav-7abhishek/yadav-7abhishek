@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about AWS Cloud Practitoner
 - 📫 How to reach me: ...
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I am AWS Certified Cloud Practitioner
 
 
 ## 🌐 Socials:
