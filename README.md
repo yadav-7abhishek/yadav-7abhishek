@@ -3,7 +3,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on enhancing my DevOps skills
 - 🌱 I’m currently learning Terraform
 - 👯 I’m looking to collaborate on Terraform and AWS
 - 🤔 I’m looking for help with Devops
