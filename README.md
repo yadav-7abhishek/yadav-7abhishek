@@ -4,13 +4,13 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on enhancing my DevOps skills
-- 🌱 I’m currently learning Terraform
-- 👯 I’m looking to collaborate on Terraform and AWS
-- 🤔 I’m looking for help with Devops
+- 🌱 I’m currently learning Docker
+- 👯 I’m looking to collaborate on DevOps
+- 🤔 I’m looking for help with Shell Scripting 
 - 💬 Ask me about AWS Cloud Practitoner
 - 📫 How to reach me: ...
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I am AWS Certified Cloud Practitioner
+- ⚡ Fun fact: Consistency is something we know is a path to success, but still we don't value it.
 
 
 ## 🌐 Socials:
