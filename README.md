@@ -4,7 +4,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on enhancing my DevOps skills
-- 🌱 I’m currently learning Docker
+- 🌱 I’m currently learning Jenkins
 - 👯 I’m looking to collaborate on DevOps
 - 🤔 I’m looking for help with Shell Scripting 
 - 💬 Ask me about AWS Cloud Practitoner
